@@ -95,7 +95,7 @@ Apps disagree about what a formatted link looks like. Microsoft Teams, Outlook a
 three at once**, so every app picks the flavour it understands. The plain text alternative is configurable: the
 URL, the title, both, or the Markdown link.
 
-If one app still refuses the link, set **Rich Text Method** to *RTF only*, the route that has always worked for
+If one app still refuses the link, set **Rich Text Method** to *RTF Only*, the route that has always worked for
 Teams, Outlook and Word.
 
 </details>
@@ -158,7 +158,7 @@ npm install && npm run dev
 <details>
 <summary><b>Teams or Outlook pastes the bare URL.</b></summary>
 
-Set **Rich Text Method** to *RTF only* in the extension preferences. Those apps prefer RTF over HTML.
+Set **Rich Text Method** to *RTF Only* in the extension preferences. Those apps prefer RTF over HTML.
 </details>
 
 <details>
